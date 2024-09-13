@@ -1,2 +1,2 @@
-- Trocar óleo
+- Verificar nível de óleo
 - Revisar freios
